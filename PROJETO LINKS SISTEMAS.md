@@ -145,7 +145,7 @@
     
     - [x] VÍDEO CONFERÊNCIA
     
-      http://localhost:3000/links-sistemas/teste
+      http://localhost:3000/links-sistemas/
     
     - [x] CONTRA-CHEQUE
     
