@@ -54,6 +54,12 @@ const ListOfImagesAndSystems = [
         systemName:'SGTI',
         systemAddress: 'https://sgti.pc.pe.gov.br/',
     },
+    {
+        image:'logoPcpeBrasaoOuroFundoBranco.png',
+        imageTitle:'Sistema de Controle de Plantões Digitais',
+        systemName:'LOGIN',
+        systemAddress: 'https://www2.pc.pe.gov.br/login/',
+    },
 ];
 
 export default ListOfImagesAndSystems;
